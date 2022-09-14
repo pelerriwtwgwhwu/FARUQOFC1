@@ -10,16 +10,16 @@ conn.relayMessage(m.chat,  {
       text: `
 0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
 │       *「 Kartu Intro 」*
-│ *Nama     :* 
-│ *Gender   :* 
-│ *Umur     :* 
-│ *Hobby    :* 
-│ *Kelas    :* 
-│ *Asal     :* 
-│ *Agama    :* 
-| *Status   :* 
+│ *Namalu     :* 
+│ *Bapacklu   :* 
+│ *Umurlu     :* 
+│ *Emaklu     :* 
+│ *Kakaklu    :* 
+│ *Adeklu     :* 
+│ *Agamalu    :* 
+| *Statuslu   :* 
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙
-wa.me/arull
+wa.me/0
 `,
       contextInfo: {
       externalAdReply: {
