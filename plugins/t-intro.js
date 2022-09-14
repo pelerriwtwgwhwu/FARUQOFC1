@@ -1,18 +1,8 @@
 let handler = async m => {
 
-let krtu = `Kartu Intro`
+let krtu = `-`
 m.reply(`
-0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
-│       *「 Kartu Intro 」*
-│ *Nama     :* 
-│ *Gender   :* 
-│ *Umur      :* 
-│ *Hobby    :* 
-│ *Kelas      :* 
-│ *Asal         :* 
-│ *Agama    :* 
- |  *Status     :* 
-╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙
+Welcome Bang👋
 `.trim()) // Tambah sendiri kalo mau
 }
 handler.command = /^(intro)$/i
